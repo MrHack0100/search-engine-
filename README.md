@@ -1,7 +1,7 @@
 <h1>#search engine</h1>
-this is my first html project 
-I'm creat this site as application in html 
-#thanks for viewing my code 
+<p>this is my first html project </p>
+<p>I'm creat this site as application in html <p>
+<p>#thanks for viewing my code </p>
 <pre>___________________________________________
  .___  ___. .______      
  |   \/   | |   _  \     
